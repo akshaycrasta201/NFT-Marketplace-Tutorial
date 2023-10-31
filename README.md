@@ -57,3 +57,4 @@ Include any disclaimers or legal information.
 ## Acknowledgments
 Mention any libraries, tools, individuals, or organizations that have contributed to your NFT marketplace.
 This README template serves as a starting point for your NFT marketplace project. Customize it to match your specific project's details, features, and goals. A well-documented README helps users, contributors, and potential investors understand your NFT marketplace and its capabilities.
+
